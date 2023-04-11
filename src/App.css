@@ -1,0 +1,19 @@
+.cardInstrutor {
+  border: 3px solid black;
+  border-radius: 16px;
+  overflow: hidden;
+  justify-content: space-between;
+}
+
+.cardInstrutor:hover {
+  background-color: #999;
+  transition:  1.5s;
+}
+
+.fotoInstrutor {
+  width: 250px
+}
+
+.icons {
+  font-size: 64px !important;
+}
